@@ -1,0 +1,7 @@
+platform :ios, '12.0'
+
+target '131 Setting Up Parse Server' do
+use_frameworks!
+
+pod 'Parse'
+end
